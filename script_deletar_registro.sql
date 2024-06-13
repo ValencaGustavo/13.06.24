@@ -1,0 +1,1 @@
+DELETE FROM `db_java_senac2024`.`tbl_alunos` WHERE (`id` = '2');

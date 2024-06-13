@@ -1,0 +1,1 @@
+UPDATE `db_java_senac2024`.`tbl_alunos` SET `id` = '2', `nome` = 'Rodrigo', `data_nascimento` = '110710', `genero` = 'Masculino', `whatsapp` = '4199632002' WHERE (`id` = '1');

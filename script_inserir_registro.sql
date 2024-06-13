@@ -1,0 +1,1 @@
+INSERT INTO `db_java_senac2024`.`tbl_alunos` (`id`, `nome`, `data_nascimento`, `genero`, `whatsapp`) VALUES ('1', 'Gustavo', '10112007', 'Masculino', '43996295222');
